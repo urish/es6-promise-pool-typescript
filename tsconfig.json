@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "removeComments": false,
+      "noImplicitAny": false,
+      "strictNullChecks": true,
+      "sourceMap": true,
+      "lib": [
+        "es2015",
+        "dom"
+      ],
+      "outDir": "dist",
+      "sourceRoot": "src"
+    }
+  }
+  
